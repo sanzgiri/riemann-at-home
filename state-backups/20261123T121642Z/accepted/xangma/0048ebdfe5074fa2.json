@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.0.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "0048ebdfe5074fa2",
+  "machine": {
+    "os": "Linux 6.8.0-147-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper PRO 3995WX 64-Cores",
+    "cores": 128
+  },
+  "started": "2026-11-22T02:55:40Z",
+  "recorded": "2026-11-22T18:59:14Z",
+  "busy_seconds": 57813,
+  "modules_compiled": 174116,
+  "bitmap_b64": "H4sIAAAAAAACA+2cvW/UMBTAgxhuqEQLG9ON/AEs3TzBekIIsSAh/goGpLowdEGCGSTIwNCBARALW3qIiSVjhZAIFaJBLAZdpVxIYpOvu7NzcfKSy7VX9f2ku8uXHdvv+fk9260QyCnBSb6o9jaPpOPs4YwA/AZOBYt/LCs7ZXE+CIIgiAamscj97+7sJNSnp1y10FaDwQCCpxS2rjTSCJKVxpzWwm9WkFCtCakcT6j4CRyhhPZ11VKqKi7Ls3aTKk5HURLKImrPSM0maRcPmkRto1bqqVG5WuyrZVdJVZKo9KqiN1810gugGgwigLaEjLugIYhble6IPo+l5wMzNuf1N2DtLdEkU1qtTmZtTqWdyQ7rDZQ7l9qqVAdIy8R91tY8tVs0CnNvG1d2KQhN1SIs1tIR3ZgPEH5YbAsT9IrjcPRVs1M+bthaNZ2ldiRrlF/cWrBosEb2hoJwwjTaQWKhf0rkz7KBM7Nbac6up5jHqZaO4uuv6FRkVkgAvR8mKkcT9pGmZlP7SJB/HJj/QbtXqNqW8BfJnUDHOqqMLlaiEoPV91vnRtXLh7ohHD4k1XqWtO39VPF8B2TPmsynTGpMvXZuUrUK7dU+8qZ3uBLqECw3e17srk7RcpiV7iuDxUfnj5r6wppByCtoQfpNiu7A3TEocONSx6oswx+A5SJt+6aC5YjRUPBAk5FLFUuQ9Mo+rDdY3eihp2QWQfJn7cYKou0GrLN4JOWZ5N9YebXCf63cTc67CQ47oplJPni+uP0ho8avTaxNUCw1WYrtpO2MqV8UpLtswS3H6LsLFz4KJ67z36WU0G7uHS3UDUYCQU4Gik2AIAiCIAiCIEinQcbgZfpL8vM1JfaYn2awpkdvK6JlRySTIslcV7jOxJfCJB5PbmazDPlMfbIcGB8OtrK0k7mDh0/kqJ+WR+T5BTeJ/P24gE8JLLR/32RKYKSfX2BJVXypvfhsNcWGioGsz63fBHIkiLEggiDIscIibAMEOVaPdLwiBYny5esf2XHs+O2nG0PM9CoPXlhm5qRRIe2IsM+YuO5/E6/93zsfmy282aJvbO+N14xQ9OTYwJt5utlaLDWM8g0A9BFZv35t93F82DNmbKtieDALOtosmSpp6JVLN4b7Fzc3Njbv9bZ7H+70e6smjKAq7nEKDaicQaRn5eGfo7lfsofsnJHLzxcIgiDIKgY6jVOQ8ISLfAulhiDI6SfbqP4u/SPLiSN+U37ATb3v6DaP73rRhSNsMgRBEARBEARBEOSM4Agh70bkND9gn38tadMG/ktFpBTjPyHzmUWLVQAA",
+  "olean_digest": "6a53668349b1c162662fd9b03a294af35ecdf798a3aeb42e581dde8865e31912",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

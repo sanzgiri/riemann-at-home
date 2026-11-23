@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "ce77c80359c91d04",
+  "machine": {
+    "os": "Linux 7.3.4-arch1-2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 7900X3D 12-Core Processor",
+    "cores": 24
+  },
+  "started": "2026-11-23T13:04:05Z",
+  "recorded": "2026-11-23T13:14:07Z",
+  "busy_seconds": 602,
+  "modules_compiled": 1753,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cz08TQRTH307XdjGlbCIhJRxYxB/RxEhMNBiJnRAOHkjoxYsXSTxrvBhMNDIIIcYT/gFqPeo/4IGDy5l48OQBlZp40oMmSCBQGGd2F9ilpWyxKKTfz2G6Mzs782bmzXudt02JQGxYXVuzvdSIlHGdiKCrgTw59R/EhfKiphiPiV3uW+FqZhxBzApXAAAAAAAAAAAAAAAAAAAAAAAAotgHVbCJhJLNZFghAA7bTjawHAAAAAAAAIBGwNq9SrXfsTuYQQAaDEH2nqMmiJKCgwD3nN8AIxH2b3Ylv8a2a792iU6klhUJI0Y9pv0h07Gj57RqcMTg/3LiCOYAAAAAAACAhiFFy1IxohPZKYoqXc15dx5S78a58r28OWIYNP7YVmdMITuJ3JyUV9S5UT9V0w9fLjuU0QfOW2xJ5lbn19alTzNNldTHRlYmaEmloy0NthzumpQl+fmiXPgRPnbf9VbppZ6Y6Z9U6No8mKeCCmMxogO/O1z/qmO8j6Y4UfI78ewMmXpBaJDarK1oALVT8bTq5VOCMqfcZ9T14FGFk/6OtJUX6ZiEEAmi++1+/nV6qMmhJ5OqqEdJV6lJS5QF6vcQU3CZHtEb4rPn/Z4jcb4pP9farKeIF7zMDE3c9mra1ywyZ4bVLkkeha0IKwD/VjlaKqq9Wsn0PJ12lflwrz4O1rFw3Jy8t/ixhcTZxEmvrKS2vr/KSkMpWdZGYG1MUU0809G3QxIKHs9K/c0fHCX/wbwv76NBTNW1tf0K/m2u0EBoVgKn8XZhbm1+RJZkmKozxpgdETcbUgB+TNlVrUPMuys83QvUrs8wRcaitFIyi5meUhqjUTmFHfe9QHH75tq6sOuidDyyV4MhWIzrlx5ZEs1le8wzkSrR4zZNJjbFKBj9/ozQxg4t74y4mpF0Ue/jbJff45mV2fW551+uW3Rpftj38bk4gquVTLW8GnJq2ZeiOxjgr3h9AAAaGjbsWNpIOpOL3Z4FE3llF+vs+IqJGhp5Ec6kq9Xsrf07i+g/lycu7vDBsVF2wxF2wch6Rt3Vdl3Ir+9WVpWVby170Khg9B1/xIb2kjt/J1v3peRRN57f1vShQNAfA0oa3YtVAAA=",
+  "olean_digest": "74a5898300da8fc9390e8048d733936abc19bb8fc86d170a55c5be7b159c9d9c",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

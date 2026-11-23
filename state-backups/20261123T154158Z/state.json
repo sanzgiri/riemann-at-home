@@ -1,0 +1,111 @@
+{
+ "prs": {
+  "1": {
+   "path": "submissions/titojankowski/fe4725a62d70089e.json",
+   "seen_sha": "59eee82a833076c15ce8c9d05b18ffce2ff9fb13",
+   "seen_at": "2026-11-23T15:41:58Z",
+   "accepted_sha": "59eee82a833076c15ce8c9d05b18ffce2ff9fb13",
+   "last_comment": null
+  },
+  "2": {
+   "path": "submissions/muellerdominikalexander-gif/3627979f33ed964d.json",
+   "seen_sha": "21f26a4418ea3ce2240862d199dc236634ca14ac",
+   "seen_at": "2026-11-23T15:27:23Z",
+   "accepted_sha": "21f26a4418ea3ce2240862d199dc236634ca14ac",
+   "last_comment": null
+  },
+  "3": {
+   "path": "submissions/rib3ye/da401b05d0e266e5.json",
+   "seen_sha": "e91ed725314456db50e1b700d3c4f29c978e8c08",
+   "seen_at": "2026-11-23T05:57:35Z",
+   "accepted_sha": "e91ed725314456db50e1b700d3c4f29c978e8c08",
+   "last_comment": null
+  },
+  "4": {
+   "path": "submissions/derek-blanchette/1daf97e08d18d478.json",
+   "seen_sha": "f5657495f9598fd093bcf94f1455182fcec98664",
+   "seen_at": "2026-11-23T03:46:38Z",
+   "accepted_sha": "f5657495f9598fd093bcf94f1455182fcec98664",
+   "last_comment": null
+  },
+  "5": {
+   "path": "submissions/gebhardtr/18acf047f7df4edc.json",
+   "seen_sha": "ca6123c4ae624ff7d8ac6d7cc17e59ee6a30351d",
+   "seen_at": "2026-11-23T15:34:40Z",
+   "accepted_sha": "ca6123c4ae624ff7d8ac6d7cc17e59ee6a30351d",
+   "last_comment": null
+  },
+  "6": {
+   "path": "submissions/luvchurchill/3d07a4cce07e1d91.json",
+   "seen_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "seen_at": "2026-11-22T06:16:49Z",
+   "accepted_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "last_comment": null
+  },
+  "7": {
+   "path": "submissions/ununhexium/58ab2ff0db69a686.json",
+   "seen_sha": "afba9aab6fb1ff3143a1a83b0ca06b668293d0be",
+   "seen_at": "2026-11-22T15:16:02Z",
+   "accepted_sha": "afba9aab6fb1ff3143a1a83b0ca06b668293d0be",
+   "last_comment": null
+  },
+  "8": {
+   "path": "submissions/xangma/0048ebdfe5074fa2.json",
+   "seen_sha": "bd7580f1d0601122c286fecb9f199ed12722b8bb",
+   "seen_at": "2026-11-22T19:12:35Z",
+   "accepted_sha": "bd7580f1d0601122c286fecb9f199ed12722b8bb",
+   "last_comment": null
+  },
+  "9": {
+   "path": "submissions/jasonhansel/ce3b56ad90e92a5e.json",
+   "seen_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536",
+   "seen_at": "2026-11-23T09:50:54Z",
+   "last_comment": null,
+   "accepted_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536"
+  },
+  "10": {
+   "path": "submissions/framiere/0389b5177ba4ba89.json",
+   "seen_sha": "1b3af88d19ff77751f05987655b57e5344c45401",
+   "seen_at": "2026-11-23T15:41:58Z",
+   "accepted_sha": "1b3af88d19ff77751f05987655b57e5344c45401",
+   "last_comment": null
+  },
+  "11": {
+   "path": "submissions/Genbox/0ffe19f477b8322f.json",
+   "seen_sha": "c09b71ce8ca141261dfb9e131e038a380e9b6d85",
+   "seen_at": "2026-11-23T15:41:58Z",
+   "accepted_sha": "c09b71ce8ca141261dfb9e131e038a380e9b6d85",
+   "last_comment": null
+  },
+  "13": {
+   "path": "submissions/milhouse1337/b4e604bd6fb4fc81.json",
+   "seen_sha": "3aaf6a0a25f56e1d9b3192aa71a2ea509abcec09",
+   "seen_at": "2026-11-23T15:34:40Z",
+   "accepted_sha": "3aaf6a0a25f56e1d9b3192aa71a2ea509abcec09",
+   "last_comment": null
+  },
+  "16": {
+   "path": "submissions/tgragnato/df413341ab8f5ce9.json",
+   "seen_sha": "aceda91e5805be95bc70d45c4801d3457404e9ed",
+   "seen_at": "2026-11-23T15:41:58Z",
+   "last_comment": null,
+   "accepted_sha": "aceda91e5805be95bc70d45c4801d3457404e9ed"
+  },
+  "17": {
+   "path": "submissions/ericpruitt/d8bfa2f6cd0c06ca.json",
+   "seen_sha": "f61768c9ebc41908d8d115bfd2f6af4293974cf4",
+   "seen_at": "2026-11-23T10:12:50Z",
+   "accepted_sha": "f61768c9ebc41908d8d115bfd2f6af4293974cf4",
+   "last_comment": null
+  },
+  "18": {
+   "path": "submissions/Fornax96/ce77c80359c91d04.json",
+   "seen_sha": "c67fff35d2b1456192890fc027eb4a5a926d70e8",
+   "seen_at": "2026-11-23T15:41:58Z",
+   "accepted_sha": "c67fff35d2b1456192890fc027eb4a5a926d70e8",
+   "last_comment": null
+  }
+ },
+ "last_publish": "2026-11-23T15:41:58Z",
+ "published_hash": "0a8e5a476e484377e7e43ff0bdf975f2759ca39463a1582b39412b39e6fbceeb"
+}

@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "ce77c80359c91d04",
+  "machine": {
+    "os": "Linux 7.3.4-arch1-2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 7900X3D 12-Core Processor",
+    "cores": 24
+  },
+  "started": "2026-11-23T13:04:05Z",
+  "recorded": "2026-11-23T13:24:21Z",
+  "busy_seconds": 1216,
+  "modules_compiled": 3304,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cX2gcRRjAv9k77zYxuVvKEc9UuEmr9ijF3pPair1JDf5DcOuT1IcGiwShaFCKDyXNtEgUEZOiD0G0RvRVtPigYEu2toJQpbEPClbMFYRAjTYlxhy9ZseZ3b3dvctd7pImWM33ezhmZ2dnvm9mvvluvp07AGRpSJDUVrXiDcBU9bpzQd08lQNcNZUC0mOWs1cRdi8Y1Xkt9QpTKRABjXQ/1nfUiC5Zr6uGIztAtBlJon53RnGWIQiCIAiCIAiCIAiCIAiCIAiCIAjyf4GTenfKr0apf5mruhPAgqSx+CXvYjobloituqavRqRkUW3tutLA2YTcEDfXaYSbaT4TnBwIgiAIgiAIgqwH9BvbOVLsQQRZZ1hgGCuLmhQTDaKkvap6jMggaw1znF+PBjzs34wKv8ZlhqZ+0lYBd1ziFlWKlSdzGqCb1vaYzPghsbG69ZjhlT6gZbVmHTHy73LnLdgHCIIgCIIgCLJuiENR+GR4QX6W8s6d6yJf3u59L/a9Qp7LvX3hmacudJ8QHwwLkRfqNldP7Wy+NdqyY+qBt57W9p1/OTYv8qXJBdtruh1GbFHBvPpIEhp63P/7E+LuUvW1iKq0qo9H60eIrZA6iTqR5PoBIR7aS9Ox0FFAupVmudP/kkEx+3t42z0TdMu4eGjm0FVPcasv5mzvx4RoeFLPsjdOuCJclEM3whjELhssfRraEurZA6yjvF9Xhxxvh0LffrAWboXBe745AV2HDleMY1eQnj7Wsqn/iviUBqFzvUM76Uj47C6AzlGi1PgyAWBPRQCKO5xbttQkc0m8PySzcjTFKJWFjESFyHpFIKNVitmq+5GFkVpKRsqJnH8ISr86C0WwvgLz3Iu+egET7lVHu5ro+wt7SBbgzOvvDeQM4KMTj+vmO6d7X4pD/FeM4EEomMR+q90ffKlXK4ncG+NWyMSviPFN0aGDcz8lr4utkbt0d9mJgOaklGnEAPpdc9I9U/EkiCpDsrrc4Vx09C6mTCt8Co6z5o7nBYve8mnmDG5gRQURWUEbxWRzy0wjbJGp4QpWj4E1C/5Fy9Ohx7n88Y7hv4ySN5++mC15fiNEMnvka4N/dj5zt5wP381vAHb5lB/12jXUCXtUYmd/fO8j5runHjyzzV8ZMil4jTjdrLsrt8G8v81iJ4l9drs+nYe//zgcmTaPT4lP5gbvO/ht3BuWXz56eP7Ym7c5/rHRQPOFKg8hnYA7zBT6K49+z5Sro8CK+T+NtBxIZQc8UqzSmoT8DDBPAq6pLD6s0h/rmsml5aSBt1dLlHNeV0jDknrrbalW7hvPGNlNgonHaqnDgMlmthWVnKOun+DPXztnX5ycnBONSH4+AKKsvjJHEU9++CRdzlFfvpnbYrPTWXlcsBEEacDRXqrDz6QrOzS3RS5gPcBN9fprZdRzfIXl+Pvj4Yu2pUrev/yfQfDd201g/AX2xJFBbS/lxhhJO4u6pdZ1Li6NXyvJVT616EFSY9GnrsZEeUlOKzuC+1+JbFdKFnbjAGZV1f8JOPwDYst6OotVAAA=",
+  "olean_digest": "afcd622a91dd2dc95c626e2be4b76f2ac9a3783adcea6717ef222265c0dee120",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}
